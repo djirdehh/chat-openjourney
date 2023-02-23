@@ -1,0 +1,16 @@
+html,
+body,
+#__next {
+  height: 100%;
+  overflow-y: hidden;
+}
+
+body {
+  background: rgb(1, 7, 22);
+  background: linear-gradient(
+    180deg,
+    rgba(1, 7, 22, 1) 0%,
+    rgba(16, 29, 63, 1) 50%,
+    rgba(47, 74, 145, 1) 100%
+  );
+}
